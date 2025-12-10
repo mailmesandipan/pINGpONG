@@ -1,0 +1,5 @@
+{
+  "name": "Neon Pong AI",
+  "description": "A classic vertical Ping Pong game with a twist: customize your game arena using Gemini 2.5 Flash Image AI. Use Left/Right arrows to control the paddle.",
+  "requestFramePermissions": []
+}
